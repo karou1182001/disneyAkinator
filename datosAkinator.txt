@@ -1,0 +1,253 @@
+1|terminó su historia siendo humano|true|0
+2|es sirena|true|1
+3|es mujer|true|1
+4|es cangrejo|true|2
+5|es el papá de Ariel|true|2
+6|es pelirrojo|true|2
+7|es oriental|true|2
+8|es una chica|true|3
+9|Sebastián|false|3
+10|Reina Athena|false|3
+11|Tritón|false|3
+12|es herpetofóbico|true|3
+13|Conoció a Hades|true|3
+14|fue un sapo|true|3
+15|tiene de mascota un tigre|true|3
+16|es un pato|true|4
+17|es de porcelana|true|4
+24|fue un ladrón|true|4
+25|Garfio|false|4
+26|salvó a Aurora|true|4
+27|Hércules|false|4
+28|es castaña|true|4
+29|Tiana|false|4
+30|es rubia|true|4
+31|Jazmín|false|4
+32|es de color azul|true|5
+33|Pato Donald|false|5
+34|es un hada|true|5
+35|Betty|false|5
+48|bailó con Cenicienta|true|5
+49|tiene cabello negro|true|5
+52|vivió en Nunca Jamás|true|5
+53|Príncipe Felipe|false|5
+56|es rubia|true|5
+57|vivió en una ista|true|5
+60|Mulán|false|5
+61|Alicia|false|5
+64|es un muñeco|true|6
+65|vivió en una lámpara|true|6
+68|vivió con un dragón|true|6
+69|maldijo a una príncesa|true|6
+96|tiene de mejor amigo a un reno|true|6
+97|Príncipe Enrique|false|6
+98|usa una escopeta|true|6
+99|es el líder de la armada de los hunos|true|6
+104|es un vaquero|true|6
+105|Peter Pan|false|6
+112|es pelirroja|true|6
+113|tiene poderes|true|6
+114|conoce a Mike Wazowski|true|6
+115|Moana|false|6
+128|es un león|true|7
+129|dice"¡Al infinito y más allá!"|true|7
+130|logró un record como asustador|true|7
+131|Genio|false|7
+136|sufre de memoria a corto plazo|true|7
+137|Fiona|false|7
+138|es un hada de la luz |true|7
+139|Maléfica|false|7
+192|fue engañado por un hechicero vudú|true|7
+193|Kristoff|false|7
+196|Flynn Rider|false|7
+197|Clayton|false|7
+198|Aladín|false|7
+199|Shan Yu|false|7
+208|quería ser el compañero de Mr. Increíble|true|7
+209|Aladema Slim|false|7
+224|es la hija mayor del jefe de una tribu|true|7
+225|en algún momento perdió la voz|true|7
+226|perdió una zapatilla de cristal|true|7
+227|tiene el cabello muyyy largo|true|7
+228|le fabrica trajes a superhéroes|true|7
+229|Boo|false|7
+256|es un oso|true|8
+257|es el padre de Simba|true|8
+258|tiene cara marrón|true|8
+259|Buzz Lightyear|false|8
+260|es un dios|true|8
+261|Sullivan|false|8
+272|es un pato|true|8
+273|Dory|false|8
+276|es la hermana de Campanita|true|8
+277|Iridessa|false|8
+384|es rubio|true|8
+385|Naveen|false|8
+416|Quasimodo|false|8
+417|Síndrome|false|8
+448|usa abrigos de piel|true|8
+449|Pocahontas|false|8
+450|fue princesa de Arendelle|true|8
+451|Ariel|false|8
+452|Aurora|false|8
+453|Cenicienta|false|8
+454|Elsa|false|8
+455|Rapunzel|false|8
+456|conoció a Peter Pan|true|8
+457|Edna Moda|false|8
+512|es un perro|true|9
+513|Winnie the Pooh|false|9
+514|traicionó a su hermano|true|9
+515|Mufasa|false|9
+516|es de nieve|true|9
+517|Señor cara de papa|false|9
+520|es un pájaro|true|9
+521|usa lentes morados|true|9
+544|tiene brackets|true|9
+545|tiene ojos café|true|9
+552|es un hada de los animales|true|9
+553|Periwinkle|false|9
+768|es malvado|true|9
+769|es capitán de la guardia de Frollo|true|9
+896|es gitana|true|9
+897|Cruela de Vil|false|9
+900|Merida|false|9
+901|Anna|false|9
+912|hizo un pacto con Hades|true|9
+913|Wendy|false|9
+1024|es un ogro|true|10
+1025|mantiene el equilibrio en dos patas|true|10
+1028|Simba|false|10
+1029|Scar|false|10
+1032|Woody|false|10
+1033|Olaf|false|10
+1040|Stitch|false|10
+1041|Zazú|false|10
+1042|Hades|false|10
+1043|Hermes|false|10
+1088|es una gata|true|10
+1089|Foxy Odiosi|false|10
+1090|Pata Daisy|false|10
+1091|Abby Patosa|false|10
+1104|es un hada de las plantas|true|10
+1105|Fawn|false|10
+1536|fue maldecido por una bruja|true|10
+1537|es altamente religioso|true|10
+1538|es un superhéroe|true|10
+1539|Febo|false|10
+1792|es la mejor amiga de Pocahontas|true|10
+1793|Esmeralda|false|10
+1824|tiene superpoderes|true|10
+1825|Megara|false|10
+2048|es un burro|true|11
+2049|Shrek|false|11
+2050|tiene un dibujo de rayo en el cuerpo|true|11
+2051|Goofy|false|11
+2176|es una leona|true|11
+2177|Marie|false|11
+2208|es un hada del agua|true|11
+2209|Rosetta|false|11
+3072|iba a casarse con Pocahontas|true|11
+3073|fue convertido en un reloj|true|11
+3074|es un hechicero vudú|true|11
+3075|Claude Frollo|false|11
+3076|John Smith|false|11
+3077|Mr. Increíble|false|11
+3584|es la madre de Chip Potts|true|11
+3585|Nakoma|false|11
+3648|fue a África a estudiar gorilas |true|11
+3649|Elastigirl|false|11
+4096|es uno de los guardines de la familia Fa|true|12
+4097|Burro|false|12
+4100|Pluto|false|12
+4101|Bolt|false|12
+4352|es una bruja|true|12
+4353|Nala|false|12
+4416|es un hada de vuelo veloz|true|12
+4417|Silvermist|false|12
+6144|es un bufón|true|12
+6145|Kocoum|false|12
+6146|Lumiere|false|12
+6147|Cogsworth|false|12
+6148|es el asistente de Gastón|true|12
+6149|Dr. Facilier|false|12
+7168|es ciega|true|12
+7169|Sra. Potts|false|12
+7296|Bella|false|12
+7297|Jane Porter|false|12
+8192|ganó más de una vez la Copa Piston|true|13
+8193|Mushu|false|13
+8704|es un sentimiento|true|13
+8705|Ursula|false|13
+8832|es una alquimista|true|13
+8833|Vidia|false|13
+12288|fue criado por gorilas|true|13
+12289|Clopin|false|13
+12296|Gastón|false|13
+12297|LeFou|false|13
+14336|es la princesa de Atlantis|true|13
+14337|Mama Odie|false|13
+16384|es un camión grua oxidado|true|14
+16385|Rayo McQueen|false|14
+17408|es un grillo|true|14
+17409|Alegría|false|14
+17664|Campanita|false|14
+17665|Zarina|false|14
+24576|es oriental|true|14
+24577|Tarzán|false|14
+28672|trató de matar a Kuzco|true|14
+28673|Kida Nedakh|false|14
+32768|es un robot|true|15
+32769|Mate|false|15
+34816|Minnie Mouse|false|15
+34817|Cri-kee|false|15
+49152|es un superhéroe|true|15
+49153|fue criado por lobos|true|15
+57344|Blancanieves|false|15
+57345|Yzma|false|15
+65536|tiene un sólo ojo|true|16
+65537|Wall-e|false|16
+98304|es un hechicero|true|16
+98305|Frozono|false|16
+98306|Fa Zhou|false|16
+98307|Mowgli|false|16
+131072|es un pez|true|17
+131073|Mike Wazowski|false|17
+196608|toca la guitarra|true|17
+196609|Merlín|false|17
+262144|es un venado|true|18
+262145|persiguió a su hijo por todo el océano|true|18
+393216|es un emperador|true|18
+393217|Miguel|false|18
+524288|es un gallo|true|19
+524289|Bambi|false|19
+524290|no puede hablar|true|19
+524291|Marlín|false|19
+786432|es un gran cocinero|true|19
+786433|Kuzco|false|19
+1048576|es el consejero del Sultán|true|20
+1048577|es el padre de Chicken Little|true|20
+1048580|es amigo de Ariel|true|20
+1048581|Pez fuera del agua|false|20
+1572864|Erik|false|20
+1572865|Kronk|false|20
+2097152|es un alien|true|21
+2097153|Jafar|false|21
+2097154|Chicken Little|false|21
+2097155|Gallo Buck|false|21
+2097160|Nemo|false|21
+2097161|Flounder|false|21
+4194304|es un gato|true|22
+4194305|Kirby|false|22
+8388608|es un mapache|true|23
+8388609|se puede desvanecer|true|23
+16777216|es un fauno|true|24
+16777217|Meeko|false|24
+16777218|Lucifer|false|24
+16777219|Cheshire|false|24
+33554432|es un mandril|true|25
+33554433|Philoctetes|false|25
+67108864|es un cerdo|true|26
+67108865|Rafiki|false|26
+134217728|Mickey|false|27
+134217729|Rundell Benjamón|false|27
