@@ -47,13 +47,15 @@ Example:
 ## 🎥 Demo Videos
 
 ### Gameplay Demo 1  
-<a href="VIDEO_LINK_1" target="_blank">
-  <img src="images/demo1_thumbnail.png" alt="Disney Akinator Demo 1" width="500"/>
+<a href="https://photos.app.goo.gl/sykXyThTvhkCXe6M9" target="_blank">
+  <img src="readmeImages/startGame.png
+" alt="Disney Akinator Demo 1" width="500"/>
 </a>  
 
 ### Gameplay Demo 2  
-<a href="VIDEO_LINK_2" target="_blank">
-  <img src="images/demo2_thumbnail.png" alt="Disney Akinator Demo 2" width="500"/>
+<a href="https://photos.app.goo.gl/6u6fgjyUhdmXhebM8" target="_blank">
+  <img src="readmeImages/game.png
+" alt="Disney Akinator Demo 2" width="500"/>
 </a>  
 
 *(Click the images above to watch the demos)*  
@@ -66,14 +68,14 @@ Example:
 - Implemented a **graphical user interface** in Java Swing to improve user experience  
 - Combined **data structures + GUI programming** in a fun, practical project
 
-🛠️ Installation & Setup
+## 🛠️ Installation & Setup
 
 To run Disney Akinator on your computer:
 
 1. Download or Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/DisneyAkinator.git
+git clone https://github.com/karou1182001/disneyAkinator.git
 cd DisneyAkinator
 ```
 
