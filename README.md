@@ -48,14 +48,12 @@ Example:
 
 ### Gameplay Demo 1  
 <a href="https://photos.app.goo.gl/sykXyThTvhkCXe6M9" target="_blank">
-  <img src="readmeImages/startGame.png
-" alt="Disney Akinator Demo 1" width="500"/>
+  <img src="readmeImages/startGame.png" alt="Disney Akinator Demo 1" width="500"/>
 </a>  
 
 ### Gameplay Demo 2  
 <a href="https://photos.app.goo.gl/6u6fgjyUhdmXhebM8" target="_blank">
-  <img src="readmeImages/game.png
-" alt="Disney Akinator Demo 2" width="500"/>
+  <img src="readmeImages/game.png" alt="Disney Akinator Demo 2" width="500"/>
 </a>  
 
 *(Click the images above to watch the demos)*  
