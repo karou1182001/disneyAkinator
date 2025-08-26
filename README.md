@@ -28,6 +28,7 @@ The logic is powered by a **binary decision tree**, and the knowledge base (char
 <a href="https://photos.app.goo.gl/6u6fgjyUhdmXhebM8" target="_blank">
   <img src="readmeImages/game.png" alt="Disney Akinator Demo 2" width="500"/>
 </a>  
+
 *(Click the image to see how it works)*  
 
 The game builds a **decision tree** where each node is a question, and each branch represents "Yes" or "No". The leaves of the tree are Disney characters.  
@@ -53,7 +54,7 @@ Example:
   <img src="readmeImages/startGame.png" alt="Disney Akinator Demo 1" width="500"/>
 </a>  
 
-*(Click the image above to watch the demos)*  
+*(Click the image above to watch the demo)*  
 
 ---
 
