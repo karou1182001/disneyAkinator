@@ -25,7 +25,7 @@ The logic is powered by a **binary decision tree**, and the knowledge base (char
 
 ## 📸 How It Works
 
-<a href="https://photos.app.goo.gl/6u6fgjyUhdmXhebM8" target="_blank">
+<a href="https://photos.app.goo.gl/sykXyThTvhkCXe6M9" target="_blank">
   <img src="readmeImages/game.png" alt="Disney Akinator Demo 2" width="500"/>
 </a>  
 
@@ -50,7 +50,7 @@ Example:
 ## 🎥 Demo Videos
 
 ### Gameplay Demo 1  
-<a href="https://photos.app.goo.gl/sykXyThTvhkCXe6M9" target="_blank">
+<a href="https://photos.app.goo.gl/6u6fgjyUhdmXhebM8" target="_blank">
   <img src="readmeImages/startGame.png" alt="Disney Akinator Demo 1" width="500"/>
 </a>  
 
